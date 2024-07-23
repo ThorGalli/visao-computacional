@@ -32,4 +32,5 @@ PARAMS = {
 ```
 
 Desenvolvido por: Thor Galli
+
 Quaisquer dúvidas: gallithor@gmail.com
