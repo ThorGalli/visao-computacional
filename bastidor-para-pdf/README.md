@@ -30,3 +30,6 @@ PARAMS = {
     'param2': 550, # Quanto maior, menos círculos são detectados (se aproxima do círculo 'principal' da imagem)
 }
 ```
+
+Desenvolvido por: Thor Galli
+Quaisquer dúvidas: gallithor@gmail.com
